@@ -2,11 +2,11 @@
 
 ![enter image description here](https://i.imgur.com/vTL35WF.png)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn) ![TWITTER](https://img.shields.io/badge/TWITTER-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=fff) ![Portfolio](https://img.shields.io/badge/Portfolio-fa9428?style=for-the-badge&logo=Firefox+Browser&logoColor=fff)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn) ![TWITTER](https://img.shields.io/badge/TWITTER-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=fff) 
 </div>
 
 ## :memo:About Me
-:wave: Hey, I'm Adam. I'm a Developer from England.  
+:wave: Hey, I'm Adam. I'm a Developer from Manchester.  
 :computer: I'm currently working in the architecture industry on bespoke customer-facing web applications.  
 :guitar: I love learning new technologies and also love all things music.  
 :books: I'm currently learning about **Flutter**.  
