@@ -10,7 +10,6 @@
 :computer: I'm currently working in the finance industry, leading development of customer-facing applications. 
 :guitar: I love learning new technologies and also love all things music.  
 :books: I'm currently learning about **Flutter**.  
-:envelope: You can get in touch with me me at me@adampedley.dev!
 
 
 
