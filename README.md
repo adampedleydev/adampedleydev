@@ -21,5 +21,3 @@
 ## Other Stuff
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adampedleydev&layout=compact&theme=dracula)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u5lrhkowkxe601kcdsrhgl77z)
